@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 book_catalogue = [
     {
-        'name': 'Harry potter 1',
+        'name': 'Harry potter 2',
         'genre': 'Fantasy',
         'author': 'JK Rowling'  
     }
