@@ -1,0 +1,14 @@
+Error- 'virtualenv' is not recognized as an internal or external command,
+operable program or batch file.
+
+
+Solution:
+Create a new working directory for virtual environment and change to that(not part of solution, just a best practise)
+
+C:\Python\section4>python3 -m venv venv
+
+
+
+C:\Python\section4>venv\Scripts\activate
+just type the above code and activate the venv
+
